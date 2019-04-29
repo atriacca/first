@@ -1,6 +1,5 @@
-
 <body>
-    
+
 </body>    <div>
         <h1>Kool Kustom Cars</h1>
         <h2>Contact Us</h2>
@@ -12,7 +11,6 @@
     Anytown, AS 12345<br>
     800-KOOL-CARS (800-555-1234)<br>
     koolkustomcars.com</em></b></p>
-
     </div>
     <img class="large" src="https://cdn.dealeraccelerate.com/streetside/1/13127/257623/790x1024/1958-ford-fairlane-500"/>
     <img class="large" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/376f3211063643.560f0afd78f1a.png"/>

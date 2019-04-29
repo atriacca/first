@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-
 import React from "react";
 class App extends React.Component {}
     or
@@ -16,10 +15,8 @@ Product.propTypes = {
 
 }
 
-
 import './index.css';
 import App from './App';
-
 
 MVC: 
 Model - Data 
